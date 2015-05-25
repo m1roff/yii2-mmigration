@@ -1,0 +1,16 @@
+{
+    "name": "mirkhamidov/yii2-mmigration",
+    "description": "Just handly extending defult migration functionality",
+    "keywords": ["yii2", "mirgation"],
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "Mirkhamidov Jasur",
+            "email": "mirkhamidov.jasur@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+ 		"yiisoft/yii2": "*"       
+    }
+}
