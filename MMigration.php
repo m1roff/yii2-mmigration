@@ -1,6 +1,6 @@
 <?php
 
-namespace yii\db;
+namespace miroff\db;
 
 use yii\db\Migration;
 
