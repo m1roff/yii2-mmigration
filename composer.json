@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "yii\\db\\mmigration\\": ""
+            "yii\\db\\": ""
         }
     }
 }
