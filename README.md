@@ -3,6 +3,10 @@ yii2-mmigration
 
 Helper for default migration of Yii2
 
+# Attention
+
+There is no functionality. It will be soon!
+
 
 Install
 -------
@@ -26,3 +30,9 @@ don`t forget to add to your main config file:
 ],
 ...
 ```
+
+
+
+* **0.0.3** / 05.06.2015
+
+    `new` No functionality, it will bee soon!
