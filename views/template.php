@@ -9,7 +9,7 @@ echo "<?php\n";
 ?>
 
 use yii\db\Schema;
-use yii\db\MMigration;
+use miroff\db\MMigration;
 
 class <?= $className ?> extends MMigration
 {
