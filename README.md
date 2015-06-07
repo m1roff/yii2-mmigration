@@ -33,6 +33,12 @@ don`t forget to add to your main config file:
 
 
 
+* **0.0.4** / 07.06.2015
+
+    `new` Added console controller MMigrateController (without functionality).
+
+    `chg` Started adding some functionality to MMigration.
+
 * **0.0.3** / 05.06.2015
 
     `new` No functionality, it will bee soon!

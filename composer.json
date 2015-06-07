@@ -16,6 +16,7 @@
     "autoload": {
         "psr-4": {
             "miroff\\db\\": ""
+            , "miroff\\console\\controllers\\": ""
         }
     }
 }
