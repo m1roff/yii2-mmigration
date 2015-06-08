@@ -16,7 +16,7 @@
     "autoload": {
         "psr-4": {
             "miroff\\db\\": ""
-            , "miroff\\console\\controllers\\": "vendor/mirkhamidov/yii2-mmigration/console/controllers"
+            , "miroff\\console\\controllers\\": "console/controllers"
         }
     }
 }
