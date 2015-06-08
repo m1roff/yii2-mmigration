@@ -3,6 +3,7 @@
     "description": "Just handly extending defult migration functionality",
     "keywords": ["yii2", "mirgation"],
     "type": "yii2-extension",
+    "license": "GPLv2",
     "authors": [
         {
             "name": "Mirkhamidov Jasur",
