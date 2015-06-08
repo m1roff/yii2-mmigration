@@ -33,6 +33,11 @@ don`t forget to add to your main config file:
 
 
 
+* **0.0.5** / 08.06.2015
+
+    `fix` Path to MMigrateController via composer autoload fixed.
+
+
 * **0.0.4** / 07.06.2015
 
     `new` Added console controller MMigrateController (without functionality).
